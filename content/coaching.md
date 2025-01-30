@@ -5,7 +5,13 @@ date = 2024-01-30
 
 ## Wat kan ik je aanbieden
 
-Je kunt bij mij een jaar lang voor een vast bedrag advies en uitleg krijgen over hoe je zelf  een professioneel en duurzaam resultaat kunt krijgen.
+### other titles 
+
+> Je kunt bij mij **een jaar lang voor een vast bedrag** advies en uitleg krijgen over hoe je zelf  een professioneel en duurzaam resultaat kunt krijgen.
+
+- [ ] check list
+- [ ] another
+- [x] another
 
 ## Stuur een mail
 
