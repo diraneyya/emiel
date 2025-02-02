@@ -5,7 +5,6 @@ description = "helpt je zelf je woning professioneel te schilderen."
 # The URL the site will be built for
 base_url = "/emiel"
 
-
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
