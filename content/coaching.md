@@ -5,13 +5,16 @@ date = 2024-01-30
 
 ## Wat kan ik je aanbieden
 
-### other titles 
+### This is a test title
 
-> Je kunt bij mij **een jaar lang voor een vast bedrag** advies en uitleg krijgen over hoe je zelf  een professioneel en duurzaam resultaat kunt krijgen.
+> This is a quote block in markdown.
 
-- [ ] check list
-- [ ] another
-- [x] another
+This is a checklist:
+- [ ] an unchecked item in the checklist
+- [ ] another unchecked item 
+- [x] this item on the other hand is checked
+
+I can also have `code words` and more...
 
 ## Stuur een mail
 
